@@ -1,1 +1,1 @@
-# dicoding-tugas-bookshelf-app
+# dicoding-submission-bookshelf-app
